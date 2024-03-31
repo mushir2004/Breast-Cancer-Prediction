@@ -1,23 +1,114 @@
-<h1 align="center">Hi 👋, I'm Md Mushir Alam</h1>
-<h3 align="center">I am a passionate Software Engineer. I love Machine learning, and try to be better everyday.</h3>
+<br/>
+<p align="center">
+  <a href="https://github.com/mushir2004/ReadME.md">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fbreast-cancer-classification-using-support-vector-machine-svm-a510907d4878&psig=AOvVaw0Z2bST0Cs18vaQeFK5Scof&ust=1711988917262000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCWy-b1noUDFQAAAAAdAAAAABAE" alt="Logo" width="80" height="80">
+  </a>
 
-- 🔭 I’m currently working on [BREAST CANCER PREDICTION MODEL](https://github.com/mushir2004/Breast-Cancer-Prediction)
+  <h3 align="center">BREAST CANCER PREDICTION MODEL</h3>
 
-- 🌱 I’m currently learning **Deep Learning and NLP**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mushir2004](https://github.com/mushir2004)
-
-- 📫 How to reach me **alammushir7100@gmail.com**
-
-- ⚡ Fun fact **I think if we work together, it will be a real fun.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/coder2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="coder2004" height="30" width="40" /></a>
-<a href="https://twitter.com/mushir7100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mushir7100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md mushir alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md mushir alam" height="30" width="40" /></a>
-<a href="https://instagram.com/_altruistic_7100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_altruistic_7100" height="30" width="40" /></a>
+  <p align="center">
+    This is a machine learning model which helps in predicting Breast Cancer
+    <br/>
+    <br/>
+    <a href="https://github.com/mushir2004/ReadME.md"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/mushir2004/ReadME.md">View Demo</a>
+    .
+    <a href="https://github.com/mushir2004/ReadME.md/issues">Report Bug</a>
+    .
+    <a href="https://github.com/mushir2004/ReadME.md/issues">Request Feature</a>
+  </p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![Downloads](https://img.shields.io/github/downloads/mushir2004/ReadME.md/total) ![Contributors](https://img.shields.io/github/contributors/mushir2004/ReadME.md?color=dark-green) ![Issues](https://img.shields.io/github/issues/mushir2004/ReadME.md) ![License](https://img.shields.io/github/license/mushir2004/ReadME.md) 
+
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
+
+## About The Project
+
+A breast cancer prediction model utilizing machine learning techniques is a sophisticated algorithmic system designed to analyze various factors and patterns associated with breast cancer. It typically integrates vast datasets. Through iterative training and validation processes using labeled data, the model becomes increasingly accurate in its predictions, enabling healthcare professionals to intervene early and provide personalized care to patients at higher risk of breast cancer.
+
+
+
+
+
+
+
+
+## Built With
+
+In this project, I used Google Colab for coding and some open-source Python library like numpy and pandas, etc
+
+* []()
+* []()
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+1. Go to code section.
+2. Copy the link.
+3. OR Download the the complete file.
+
+### Prerequisites
+
+Go to Google Colab, then you can straight start coding.
+
+### Installation
+
+1. import numpy as np
+2. import pandas as pd
+3. import sklearn.datasets
+
+
+## Usage
+
+This model prediction the type of tumor found in breast cancer.
+It show [0] Malignant and [1] for benign.
+
+
+## Roadmap
+
+See the [open issues](https://github.com/mushir2004/ReadME.md/issues) for a list of proposed features (and known issues).
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/mushir2004/ReadME.md/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* Please make sure you check your spelling and grammar.
+* Create individual PR for each suggestion.
+* Please also read through the [Code Of Conduct](https://github.com/mushir2004/ReadME.md/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+
+### Creating A Pull Request
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See [LICENSE](https://github.com/mushir2004/ReadME.md/blob/main/LICENSE.md) for more information.
+
+## Authors
+
+* **Md Mushir Alam** - *Computer Science Student* - [Md Mushir Alam](https://github.com/mushir2004) - **
+
+## Acknowledgements
+
+* [Md Mushir Alam](https://github.com/mushir2004)
+* [](Best-README-Template)
+* []()
