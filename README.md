@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/mushir2004/ReadME.md">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fbreast-cancer-classification-using-support-vector-machine-svm-a510907d4878&psig=AOvVaw0Z2bST0Cs18vaQeFK5Scof&ust=1711988917262000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCWy-b1noUDFQAAAAAdAAAAABAE" alt="Logo" width="80" height="80">
+    <img src="" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">BREAST CANCER PREDICTION MODEL</h3>
